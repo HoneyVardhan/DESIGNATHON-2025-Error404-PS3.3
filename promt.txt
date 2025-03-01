@@ -1,0 +1,50 @@
+person 1
+"I am developing the frontend for SageSync, a web app designed to combat doom scrolling and social media addiction. My tasks include:
+
+Designing a modern, interactive dashboard using React.js & Tailwind CSS.
+Creating a real-time screen time tracker UI with progress bars and graphs.
+Implementing a smooth, responsive layout with dark/light mode support.
+Adding buttons & alerts for Detox Mode, AI Chatbot, and Gamification.
+Ensuring API integration with the backend for user data and notifications.
+I need:
+
+The best UI/UX practices for productivity & focus-tracking apps.
+Ready-to-use React + Tailwind CSS components for charts & alerts.
+Code snippets for smooth animations & transitions.
+Suggestions for an engaging color scheme & typography.
+How to optimize the UI for mobile & desktop.
+Guide me step-by-step in implementing these features efficiently."
+
+person2
+"I am developing the backend for SageSync, an AI-powered web app that helps users reduce social media addiction. My tasks include:
+
+Setting up a Flask/Node.js server to handle user requests.
+Creating API endpoints to track user screen time & social media activity.
+Implementing Google OAuth / Email Authentication for secure login.
+Connecting the backend to Firebase/PostgreSQL to store usage data.
+Enabling real-time alerts when excessive scrolling is detected.
+I need:
+
+Best practices for Flask/Node.js API development.
+Secure user authentication setup with OAuth.
+Code snippets for CRUD operations in Firebase/PostgreSQL.
+Methods to fetch screen time data & store it efficiently.
+How to optimize API performance for fast response times.
+Guide me in implementing these features step-by-step."
+
+person 3
+"I am developing AI features for SageSync, a web app that reduces social media addiction. My tasks include:
+
+Training an AI model to detect doom scrolling patterns based on user activity.
+Implementing an adaptive alert system that warns users when scrolling excessively.
+Developing an AI chatbot that provides motivational messages, productivity tips, and digital detox suggestions.
+Generating personalized reminders to reduce screen time.
+Integrating AI into the backend & frontend UI smoothly.
+I need:
+
+AI model recommendations for behavior analysis & scrolling detection.
+Code snippets for OpenAI-based chatbot responses.
+Efficient methods to process & analyze screen time data.
+How to integrate AI alerts into frontend & backend.
+Best practices for making AI responses engaging & useful.
+Provide a structured step-by-step guide to achieve these AI-driven features efficiently."
