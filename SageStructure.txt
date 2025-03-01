@@ -1,0 +1,26 @@
+SageSync/
+│── frontend/              # React.js + Tailwind CSS UI
+│   ├── src/
+│   │   ├── components/    # Reusable UI components
+│   │   ├── pages/         # Home, Dashboard, Chatbot, Alerts
+│   │   ├── assets/        # Images, icons, CSS files
+│   │   ├── App.js         # Main React app
+│   │   ├── index.js       # React DOM rendering
+│   ├── public/            # Static assets
+│   ├── package.json       # Frontend dependencies
+│── backend/               # Flask/Node.js API
+│   ├── models/            # Database models (users, screen time, alerts)
+│   ├── routes/            # API routes (auth, activity tracking, chatbot)
+│   ├── controllers/       # Backend logic (Doom scrolling detection)
+│   ├── app.py (Flask) / server.js (Node.js)  # Backend entry point
+│   ├── requirements.txt / package.json  # Dependencies
+│── ai/                    # AI Logic & Chatbot
+│   ├── chatbot.py         # AI chatbot logic (OpenAI API)
+│   ├── scrolling_ai.py    # Doom scrolling detection model
+│   ├── alerts.py          # AI-driven smart alerts
+│── database/              # Firebase/PostgreSQL setup
+│   ├── config.py          # DB connection settings
+│   ├── schema.sql         # Database schema
+│── docs/                  # Documentation (Pitch deck, Readme, API docs)
+│── README.md              # Project overview & setup instructions
+│── .gitignore             # Ignore unnecessary files
