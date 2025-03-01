@@ -1,0 +1,37 @@
+ Person 1 – Frontend Developer (UI & Dashboard)
+📂 Works inside /frontend/
+🛠️ Tech Stack: React.js, Tailwind CSS, Chart.js
+💡 Tasks:
+
+Design Homepage, Dashboard, Chatbot, Alerts Page.
+Implement screen time tracker UI (graphs, progress bars).
+Create buttons & modals for Detox Mode, AI Chatbot.
+Ensure mobile-friendly design (responsive UI).
+Connect frontend to backend APIs.
+
+ Person 2 – Backend Developer (APIs & Database)
+📂 Works inside /backend/ and /database/
+🛠️ Tech Stack: Flask/Node.js, Firebase/PostgreSQL
+💡 Tasks:
+
+Set up Flask/Node.js API for user activity tracking.
+Implement Google OAuth / Email authentication.
+Store screen time data in Firebase/PostgreSQL.
+Build API routes for AI alerts & chatbot integration.
+Optimize backend for speed & real-time updates.
+
+Person 3 – AI & Logic Developer (Doom Scrolling AI & Chatbot)
+📂 Works inside /ai/
+🛠️ Tech Stack: Python, OpenAI API, ML models
+💡 Tasks:
+
+Train AI to detect doom scrolling based on user data.
+Implement an AI chatbot using OpenAI API.
+Develop smart alert system that sends notifications.
+Integrate AI with backend API & frontend UI.
+Optimize AI for accuracy & real-time performance
+
+How to Follow This?
+✅ Set up project folders as shown above.
+✅ Each teammate works on their own section without conflicts.
+✅ Merge everything via GitHub before final deployment.
